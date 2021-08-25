@@ -1,5 +1,5 @@
 ---
-title: Kim Alfredsson
+title: Nauclerus
 sections:
   - section_id: hero
     type: section_hero
