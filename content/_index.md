@@ -4,7 +4,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: >
+      ###
+      ![](images/20191212-3791.jpeg)![](images/20200113-3827-753db1cf.jpeg)This
+      is a super-cool hero subhead.
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
